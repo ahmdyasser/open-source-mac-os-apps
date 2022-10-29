@@ -1,6 +1,21 @@
 {
     "applications": [
            {
+            "short_description": "Fig is a GUI for command line applications.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/withfig/fig",
+            "icon_url": "",
+            "screenshots": [
+            "https://fig.io/docAssets/assets/abc.png"
+            ],
+            "official_site": "https://fig.io",
+            "languages" : [
+                "swift"
+            ]
+           },
+           {
             "short_description": "Keka is a full featured file archiver, as easy as it can be.",
             "categories": [
                 "utilities"
